@@ -1,0 +1,14 @@
+table,th,td,tr{
+    border: 1px dotted purple;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+a:hover{
+    color: red;
+    background-color: black;
+    transition: 5s;
+}
